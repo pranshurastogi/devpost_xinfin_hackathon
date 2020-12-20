@@ -17,3 +17,8 @@ There are millions of flights scheduled everyday and taht may lead to the delay 
 Contract address - xdc6a6b80c5ee9fa2089d5c97de5e1a74667f68cd37
 Link - [https://explorer.xinfin.network/addr/xdc6a6b80c5ee9fa2089d5c97de5e1a74667f68cd37]
 ```
+
+## Presentation slide -
+Here is the PPT slide in which I have mentioned all the details - 
+
+https://docs.google.com/presentation/d/1GRPmM3eLkSEYcJMp83MMB2l-VHXkCslsvizsxGOfvE4/edit?usp=sharing
