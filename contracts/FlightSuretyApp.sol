@@ -4,7 +4,8 @@ pragma solidity 0.4.24;
 // OpenZeppelin's SafeMath library, when used correctly, protects agains such bugs
 // More info: https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/november/smart-contract-insecurity-bad-arithmetic/
 
-import "../node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol";
+import "./SafeMath.sol";
+
 
 /************************************************** */
 /* FlightSuretyApp Smart Contract                      */
