@@ -9,8 +9,11 @@ A flight Insurance system that is deployed on XinFin network
 4. Link for XinFIn faucet [https://faucet.apothem.network/]
 5. XinPay chrome extension [https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en]
 
-Sol file in progress...
-
-
 ## Ideation - 
+There are millions of flights scheduled everyday and taht may lead to the delay in arrival that may cause serious issue to the passenger and flight companies also face many defamation. My idea is to create the decentralised process for the registeration of flights, come into consensus and provide the insurance claim to the customer without any involvement of third party and hassle free process.
 
+## Deployment on Xinfin - 
+```
+Contract address - xdc6a6b80c5ee9fa2089d5c97de5e1a74667f68cd37
+Link - [https://explorer.xinfin.network/addr/xdc6a6b80c5ee9fa2089d5c97de5e1a74667f68cd37]
+```
